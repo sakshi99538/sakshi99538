@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nidhis2608&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
 - 📫 How to reach me sakshisingh16062002@gmail.com
-- 🌱 I’m currently learning *Data Structures* and *MERN Stack*.
+- 🌱 I’m currently learning *Data Structures* and Python Full stack*.
 - 💬 Ask me about anything, I am happy to help;
 - 👨‍💻 All of my projects are available at [Portfolio](https://nidhis2608.github.io/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QmxYK0UidKdQhUMUphlq6cUVif7PSjmW/view?usp=sharing)
