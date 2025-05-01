@@ -14,10 +14,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakshi99538&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
 - 📫 How to reach me sakshisingh16062002@gmail.com
-- 🌱 I’m currently learning *Data Structures* and Python Full stack*.
+- 🌱 I’m currently learning  Python Full stack*.
 - 💬 Ask me about anything, I am happy to help;
-- 👨‍💻 All of my projects are available at [Portfolio](https://nidhis2608.github.io/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QmxYK0UidKdQhUMUphlq6cUVif7PSjmW/view?usp=sharing)
+  
+  
 
 
 - ⚡ Fun fact "Did you know that the first computer bug was a real insect? In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They taped the moth into their logbook and coined the term 'debugging'! 🐛💻 #CodingHistory"
